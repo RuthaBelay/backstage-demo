@@ -8,6 +8,8 @@ Instructions for building your own Backstage instance can be found at the [Getti
 
 ## Reference Project
 
+
+
 The sprit of this demo and repository is to showcase Backstage as closely as possible to what you would get from running `npx @backstage/create-app@latest` to create a new Backstage instance. There have been some additional changes beyond that starting point to help showcase some of Backstage's features more clearly. It also acts as a reference project for how to best keep it up to date and to show a working example of recent architecture patterns like the [new backend system](https://backstage.io/docs/backend-system/).
 
 ## Core Features
